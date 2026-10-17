@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: afbbcc1
+_src_path: gh:tchauffi/python-repos-template
+author_email: tchauffi@gmail.com
+author_name: Thibaut CHAUFFIER
+description: Ikea dressing creator that help making PAX real custom furniture
+github_repo: public
+license: none
+project_name: modulo
+python_version: '3.14'
